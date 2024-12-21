@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/saurabhshahane/mango-varieties-classification?resource=download
+('saurabhshahane/mango-varieties-classification')
